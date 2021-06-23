@@ -1,0 +1,1 @@
+SELECT * from CITY WHERE `CITY`.`POPULATION` > 100000 AND `CITY`.`CountryCode` = "USA"
