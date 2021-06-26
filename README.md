@@ -89,6 +89,15 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 
 
+### Alternative Queries
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [SQL](Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
+| 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [SQL](Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
+| 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) | [SQL](Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
+
+
 ## References
 
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
